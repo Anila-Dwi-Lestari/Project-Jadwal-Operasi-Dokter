@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1704277621 source:d:\telyu\smt3\struktur data\tp\tubes std\main.cpp
+	"tubes.h"
+
+1704132534 d:\telyu\smt3\struktur data\tp\tubes std\tubes.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+
+1704277100 source:d:\telyu\smt3\struktur data\tp\tubes std\tubes.cpp
+	"tubes.h"
+
